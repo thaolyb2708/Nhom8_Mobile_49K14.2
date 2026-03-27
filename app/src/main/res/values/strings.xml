@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">NhacNhoUongNuoc</string>
+    <string name="today">Hôm nay</string>
+    <string name="target_water">/ 2500 ml</string>
+    <string name="start_goal_msg">Bắt đầu mục tiêu ngày\nhôm nay thôi!</string>
+    <string name="today_progress">Tiến độ hôm nay</string>
+    <string name="quick_log">Ghi nhanh</string>
+    <string name="ml_200">200ml</string>
+    <string name="ml_350">350ml</string>
+    <string name="ml_500">500ml</string>
+    <string name="log_water">Ghi nhận lượng nước uống</string>
+    <string name="set_goal">Đặt mục tiêu</string>
+    <string name="stats">Thống kê</string>
+    <string name="explore">Khám phá</string>
+    <string name="settings">Cài đặt</string>
+
+    <string name="desc_cup_200">Cốc 200ml</string>
+    <string name="desc_cup_350">Cốc 350ml</string>
+    <string name="desc_drop_500">Giọt nước 500ml</string>
+    <string name="desc_add">Thêm nước</string>
+    <string name="desc_calendar">Lịch mục tiêu</string>
+</resources>
